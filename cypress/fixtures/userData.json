@@ -1,0 +1,22 @@
+{
+  "userData": {
+    "id": 1001,
+    "username": "testuser",
+    "firstName": "Anna",
+    "lastName": "Petrova",
+    "email": "annapetrova@mail.ru",
+    "password": "password123",
+    "phone": "+79161234567",
+    "userStatus": 0
+  },
+  "updatedUserData": {
+    "id": 1001,
+    "username": "testuser",
+    "firstName": "Olga",
+    "lastName": "Orlova",
+    "email": "olgaorlova@mail.ru",
+    "password": "newpassword123",
+    "phone": "+79167654321",
+    "userStatus": 1
+  }
+}
